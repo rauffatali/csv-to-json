@@ -1,2 +1,3 @@
 # csv_to_json
-Convert a CSV file into JSON from scratch using CSV and JSON modules. 
+Comma Separated Value (CSV) is widely used file that represent data in a tabular format such as spreadsheets. 
+JavaScript Object Notation (JSON) is a lightweight data-interchange format with the .json extension. 
